@@ -2,12 +2,12 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://neuroenhance.chymera.eu
+title: Neuroenhancement
+subtitle: Praised, Explained, Demystified.
+author: Horea Christian
 simple_search: http://google.com/search
-description:
+description: A blog dedicated to raise publich awareness and understanding about the controversial and hyped topic of neuroenhancement
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -73,13 +73,13 @@ twitter_user:
 twitter_tweet_button: true
 
 # Google +1
-google_plus_one: false
+google_plus_one: true
 google_plus_one_size: medium
 
 # Google Plus Profile
 # Hidden: No visible button, just add author information to search results
-googleplus_user:
-googleplus_hidden: false
+googleplus_user: 
+googleplus_hidden: true 
 
 # Pinboard
 pinboard_user:
@@ -94,7 +94,7 @@ disqus_short_name:
 disqus_show_comment_count: false
 
 # Google Analytics
-google_analytics_tracking_id:
+google_analytics_tracking_id: UA-44443205-1
 
 # Facebook Like
-facebook_like: false
+facebook_like: true
