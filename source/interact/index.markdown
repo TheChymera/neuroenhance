@@ -43,6 +43,33 @@ Now, wasn't that easy?
 If you are satisfied with your work and would like to see it published on our blog (along with recognition of your authorship) you may use the convenient GitHub **Pull Request** button to ask us to publish your work.
 This will create a pull request page, where we can discuss how to best merge your file into ours.
 
+Also, before submitting a pull request please make sure you have formatted your work according to our writing standards.
+A brief rundown:
+
+* Octopress-flavored markdown syntax (as seen in any and all of our own posts)
+
+* Each sentence or “block of meaning” (think long statements in parentheses) on a separate line
+
+* Citations formatted as links, like in the example below:
+
+{% codeblock How to write citations in markdown: %}
+Your text contains a statement about [khat][giannini1986] and then some more things.
+
+After a while your text ends, and then you append the following reference, which will not be printed in the document - but only used to format the link and link-hover text display.
+
+[giannini1986]: https://www.ncbi.nlm.nih.gov/pubmed/3734955 "Giannini AJ, Burge H, Shaheen JM, Price WA (1986). “Khat: another drug of abuse?”. Journal of Psychoactive Drugs 18 (2): 155–8."
+{% endcodeblock %}
+The code above would look like:
+
+---
+
+Your text contains a statement about [khat][giannini1986] and then some more things.
+
+After a while your text ends, and then you append the following reference, which will not be printed in the document - but only used to format the link and link-hover text display.
+
+[giannini1986]: https://www.ncbi.nlm.nih.gov/pubmed/3734955 "Giannini AJ, Burge H, Shaheen JM, Price WA (1986). “Khat: another drug of abuse?”. Journal of Psychoactive Drugs 18 (2): 155–8."
+
+---
 
 ### Cite!
 Well, this is not that interactive really, but our commitment to versioning is first and foremost in order to allow people to *cite* our articles.
