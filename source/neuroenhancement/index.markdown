@@ -37,3 +37,7 @@ If your mind does the specific task you want to do with it at the respective mom
 
 [giannini1986]: https://www.ncbi.nlm.nih.gov/pubmed/3734955 "Giannini AJ, Burge H, Shaheen JM, Price WA (1986). “Khat: another drug of abuse?”. Journal of Psychoactive Drugs 18 (2): 155–8."
 [bennett2001]: http://books.google.com/books?id=YdpL2YCGLVYC&pg=PA63 "Bennett Alan Weinberg; Bonnie K. Bealer (2001). “The World of Caffeine: The Science and Culture of the World's Most Popular Drug”. Psychology Press. p. 63. ISBN 978-0-415-92722-2."
+
+---
+
+Browse the history of this file *or* find static versions to cite via [its GitHub page](https://github.com/TheChymera/neuroenhance/blob/master/source/octopress/index.markdown)!
