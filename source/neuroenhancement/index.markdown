@@ -40,4 +40,4 @@ If your mind does the specific task you want to do with it at the respective mom
 
 
 ---
-<sup>Browse the history of this file *or* find static versions to cite via [its GitHub page](https://github.com/TheChymera/neuroenhance/blob/master/source/octopress/index.markdown)!</sup>
+<sup>Browse the history of this file *or* find static versions to cite via [its GitHub page](https://github.com/TheChymera/neuroenhance/blob/master/source/neuroenhancement/index.markdown)!</sup>
