@@ -45,4 +45,4 @@ While these qualities are not unique to Octopress in the CMS world, we very much
 
 ---
 
-Browse the history of this file *or* find static versions to cite from [its GitHub page](https://github.com/TheChymera/neuroenhance/blob/master/source/octopress/index.markdown)!
+Browse the history of this file *or* find static versions to cite via [its GitHub page](https://github.com/TheChymera/neuroenhance/blob/master/source/octopress/index.markdown)!
