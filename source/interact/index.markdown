@@ -1,0 +1,62 @@
+---
+layout: page
+title: "Interact!"
+date: 2013-09-30 05:03
+author: Horea Christian
+comments: true
+sharing: true
+footer: true
+---
+
+This is a modern website geared towards seamless integration, transparency, and interactivity! 
+You can interact with us in the following ways:
+
+### Comment!
+Commenting is simple, fast and fun!
+
+Bear in mind, though, that our pages are versioned and change over time!
+If you comment on any specific content please specify the revision which you are referring to.
+You can find the identifier of all revisions (the SHA checksum) by clicking the link on the bottom of every page
+- which commonly looks like this:
+
+<sup>Browse the history of this file *or* find static versions to cite via [its GitHub page](https://github.com/TheChymera/neuroenhance/blob/master/source/interact/index.markdown)!</sup>
+
+And then clicking on the **History** button in the top right.
+The topmost revision is the latest, and you can copy the identifier (SHA) by just clicking the first futton right of it.
+
+### Fork!
+If you would like to directly and 100% constructively improve our articles you may do so by *modifying them*!
+Every article contains a link to its GitHub page at the very end. You can navigate to that link and *fork* the article (or our entire website) into your GitHub repository.
+
+If this all sounds like gibberish to you - don't fret! 
+It's actually quite simple.
+To get started just [register on GitHub](https://github.com/) - 
+after you have an account the **Edit** buttons on the upper right of all our article pages will become active and you can start editing from a convenient and pretty point-and-click visual interface!
+Don't forget to add yourself under the ```author:``` section after you have edited the file!
+
+Now, wasn't that easy?
+
+Of course, if you are tech-savvy and don't like GitHub for some reason, you can fork directly to your own local repository on your computer.
+
+### Submit Pull Requests!
+If you are satisfied with your work and would like to see it published on our blog (along with recognition of your authorship) you may use the convenient GitHub *pull request* button to ask us to publish your work.
+This will create a *pull request* page, where we can discuss how to best merge your file into ours.
+
+### Cite!
+Well, not that interactive really, but our commitment to versioning is first and foremost in order to allow people to *cite* our articles.
+Providing references is indispensable for making verifiable claims in media, publications, or social networks;
+and sadly, most of the blogosphere cannot provide that.
+Posts may change without a notice, or disappear altogether
+ - and your citation? Puff!
+ 
+We are different! 
+Via the **History** section of every GitHub article page - which we diligently link to at the end of every post - you can obtain a static link which will remain the same and online for as long as our repository exists.
+
+Is your citation so valuable that the immense trust which I am sure you honor us with *still* does not suffice?
+No problem!
+You can fork our repository on your machine or on your GitHub account.
+Now, even if we *wanted* to delete all of our hard work - we could not.
+You (and - we hope - many others) would still have a copy.   
+
+---
+<sup>Browse the history of this file *or* find static versions to cite via [its GitHub page](https://github.com/TheChymera/neuroenhance/blob/master/source/interact/index.markdown)!</sup>
