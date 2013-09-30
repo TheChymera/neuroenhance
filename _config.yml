@@ -7,7 +7,7 @@ title: Neuroenhancement
 subtitle: Praised, Explained, Demystified.
 author: Horea Christian
 simple_search: http://google.com/search
-description: A blog dedicated to raise publich awareness and understanding about the controversial and hyped topic of neuroenhancement
+description: A blog dedicated to raise public awareness and understanding about the controversial and hyped topic of neuroenhancement
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -19,7 +19,7 @@ date_format: "ordinal"
 subscribe_rss: /atom.xml
 subscribe_email:
 # RSS feeds can list your email address if you like
-email:
+email: h.chr@mail.ru
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -90,8 +90,8 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name:
-disqus_show_comment_count: false
+disqus_short_name: neuroenhancement
+disqus_show_comment_count: true
 
 # Google Analytics
 google_analytics_tracking_id: UA-44443205-1
