@@ -75,8 +75,8 @@ After a while your text ends, and then you append the following reference, which
 Well, this is not that interactive really, but our commitment to versioning is first and foremost in order to allow people to *cite* our articles.
 Providing references is indispensable for making verifiable claims in media, publications, or social networks;
 and sadly, most of the blogosphere cannot provide that.
-Posts may change without a notice, or disappear altogether
- - and your citation? Puff!
+Posts may change without a notice, or disappear altogether - 
+and your citation? Puff!
  
 We are different! 
 Via the **History** section of every GitHub article page - which we diligently link to at the end of every post - you can obtain a static link which will remain the same and online for as long as our repository exists.

@@ -27,7 +27,7 @@ https://github.com/TheChymera/neuroenhance/blob/4c4e389a77a35fb51861c0b6479c3994
 {% endcodeblock %}
 
 Octopress is commonly used with [Git](http://git-scm.com/) (a powerful distributed version control system), and integrates seamlessly with it.
-We use git to version our articles, and publish the versioning history on [our GitHub repository](https://github.com/TheChymera/neuroenhance).
+We use Git to version our articles, and publish the versioning history on [our GitHub repository](https://github.com/TheChymera/neuroenhance).
 The content you see on this website is *always* the very newest; and each of our pages should contain a notice at the bottom pointing to its revision history.
 There you can see summaries of the changes, as well as diffs (graphical representations of when what lines of a document have been changed).
 Our articles are written in such a way that sentences or “blocks of meaning” are placed on individual lines 
