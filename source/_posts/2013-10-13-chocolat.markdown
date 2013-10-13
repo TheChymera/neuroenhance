@@ -1,0 +1,64 @@
+---
+layout: post
+title: "Neuroaugmentation et Chocolat"
+date: 2013-10-13 15:20
+author: Horea Christian
+comments: true
+categories: [meta, pharmacology, therapy, coaching] 
+published: true
+---
+
+We had hoped to kick this blog off on a more scientific note -
+but here we are.
+Recently, we watched a movie difficult not to review in the context of the discussion around pharmacological neuroenhancement.
+
+The context of this discussion is that many people regard pharmacological neuroenhancement as something utterly distinct from behavioural neuroenhancement (e.g. education, coaching, therapy, and meditation) -
+and as something [game-changing and dangerous][mima2009].
+And while we conclude that the movie *does* show pharmacological neuroenhancement as powerful - 
+it also shows how seamlessly it integrates with other means of neuroenhancement and how inconspicuously it may already thrive in the world.
+
+The movie is named “**Chocolat**” and the [plot](<http://en.wikipedia.org/w/index.php?title=Chocolat_(2000_film)&oldid=575140700#Plot>) revolves around a woman setting up a chocolate shop in a very conservative village on the banks of the river Tarn.
+Subsequently she wins over the locals one by one and ends up liberalizing and discreetly overthrowing the moral system of the village (championed by her primary antagonist, the mayor).
+
+<!-- more -->
+
+Neuroenhancement and pharmacology did - most probably - not cross the minds of the authors.
+The movie is both light and artistic, and the main premise seems to be the triumph of liberalism over traditionalism.
+And undoubtedly many of our readers would sympathize with that and think it an obvious development.
+
+However, if we would pause and try to remove our ideological bias from the evaluation of the conflict, we would find ourselves confronted simply with two adversaries:
+
+* One, the Comte (the aforementioned mayor), wielding the power of social repute, moral authority, and money.
+* And the second, Vianne (the shop owner), wielding the power of.. well, *chocolate*.
+
+Though they do confront each other directly on limited occasions, they mostly face off by proxy.
+Their main modus operandi is convincing the town's folk of the benefits of following their ideology, over that of their disputant.
+
+The Comte provides the town's people with a tranquil conscious by rewarding his followers with words of praise in church - this we could call **coaching**.
+He also conveys the psychological benefits of following the Christian faith - which we could contextualize as encouraging **meditation** of sorts.
+Not least of all, he seeks to instil proper manners, culture, and good social conduct - which we could see again as **coaching**, or as **education**.
+
+Vianne does some **therapy** (for lack of a better word) on one particularly deranged character - 
+but save for that, the main benefits for following her ideology are direct pleasure and anxiolysis.
+What is even more interesting is that these benefits never come through liberalism alone, and never start with it.
+They start with, and continue to be accompanied by *chocolate*.
+We would take the leap here, and call that a **pharmacological** intervention.
+
+Chocolate is not only a plot-irrelevant prop for the movie.
+According to the plot development, without it, liberalism in itself would probably never have triumphed.
+
+So, what is this to say about the nature of the conflict? 
+Is Vianne a sort of attenuated drug dealer mesmerizing the town's people with her flashy rebelliousness all while getting them hooked on chocolate?
+Is the Comte the champion of a ideology so weak that it is bound to fail when confronted with... *chocolate*?
+
+Or is it rather a case of two more-or-less equally matched belief systems -
+where the proponent of one just happens to use superior persuasion technologies than the proponent of the other?
+If you watch the movie again, just pause and think:
+What would have happened if some equally psychotropic concoction [as chocolate][nasser2011] would have been dispensed as an aerosol in church?
+
+[nasser2011]: https://www.ncbi.nlm.nih.gov/pubmed/3734955 "Nasser JA, Bradley LE, Leitzsch JB, Chohan O, Fasulo K, Haller J, Jaeger K, Szulanczyk B, Del Parigi A (2011). “Psychoactive effects of tasting chocolate and desire for more chocolate.”. Physiology and Behaviour 2011 Jul 25;104(1):117-21. doi: 10.1016/j.physbeh.2011.04.040"  
+[mima2009]: http://www.ncbi.nlm.nih.gov/pubmed/19177803 "Mima T. “Social impact of recent advances in neuroscience”. Brain and Nerve 2009 Jan;61(1):18-26."
+
+---
+<sup>Browse the history of this file *or* find static versions to cite via [its GitHub page](https://github.com/TheChymera/chymeric_tutorials/blob/master/source/_posts/2013-10-13-chocolat.markdown)!</sup>
+
