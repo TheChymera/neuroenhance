@@ -1,0 +1,113 @@
+---
+layout: post
+title: "St. John's Wort - Herbal Mood Enhancer"
+date: 2013-10-31 05:43
+author: Horea Christian
+comments: true
+categories: [pharmacology, mood enhancer, antidepressant, natural, traditional] 
+published: true
+---
+
+St. John's Wort is a widely known herbal remedy for depression, which has been [used for millennia][pöldinger2000].
+This plant is very interesting as a [neuroenhancer](http://www.neuroenhance.chymera.eu/neuroenhancement/) as it has a desirable profile of psychotropic effects, has been identified in [a broad review of studies][linde2008] as superior to placebo, and is available in most parts of the world legally over the counter.
+
+In the eyes of some, St. John's Wort may bear additional appeal for being natural and non-refined.
+We would like to mention that attributes such as *natural*, *non-processed*, or *organic* [do not equate with *safe*, *reliable*, or *good*][posadzki2013].
+Herbal medicines are often referred to by the plant's name and administered as such simply because the active ingredients are not accurately identified.
+To the serious researcher and the informed consumer this should be a reason for additional scrutiny rather than a word of praise.
+
+##Psychotropic Effects
+There are no scientific reports of St. John's Wort effects on non-depressed populations.
+We would like to note that the plant's psychotropic effects are not acute and take about one week of regular consumption (~900 mg daily) to develop.
+Based on anecdotal and auctorial experience we report similar effects as in depressive disorder patients:
+
+* Overall mood improvement
+* Increased motivation
+* Light-headedness
+
+In clinical trials, St. John's Wort compares favourably with placebo - and is especially [effective in the treatment of mild to moderate depression][kasper2010].
+Its use has high prevalence in German-speaking countries, and it is [often prescribed by psychiatrists in Germany][dörks2013], especially to adolescents.
+St. John's Wort also finds additional clinical or peri-clinical usage in:
+
+* [Anxiety disorders][sarris2013]
+* [Smoking cessation][camfield2013]
+* [Premenstrual dysphoric disorder][rapkin2013]
+
+Additionally, acute antidepressant and stimulant effects have been [found in animal models][bukhari2013].
+
+##Non-Psychotropic Effects
+The non-psychotropic effects of St. John's Wort have a more immediate onset than the psychotropic ones.
+The most prominent of these are:
+
+* Analgesia - especially against migraine, demonstrated at least in [animals models][galeotti2013].
+* Mild [antiviral][birt2009] and [topical antibacterial][saddique2010] properties.
+* [Photosensitization][schey2000].
+
+##Pharmacology
+As an unrefined herbal produce, St. John's Wort contains a plethora of active constituents (further documented in [this study][nahrstedt1997] and more recently in [this study][ma2012]).
+[Research indicates][butterweck2003] that [**hypericin**](https://en.wikipedia.org/wiki/Hypericin) and [**hyperforin**](https://en.wikipedia.org/wiki/Hyperforin) are the main active ingredients of St. John's Wort.
+
+Compared to most antidepressants St. John's Wort exhibits [a very broad mechanism of action][butterweck2003]
+(inhibiting the reuptake of at least [serotonin, noradrenaline, dopamine, GABA, and L-glutamate][wonnemann2001]).
+This mechanism of action [is credited mainly to hyperforin][chatterjee1998].
+This substance [is believed][müller2003] to inhibit the reuptake of a large number of neurotransmitters by decreasing the sodium-gradient which many neurotransmitter transporters rely on for function.
+
+As with many other plants, St. John's Wort pharmacological efficacy varies strongly from cultivar to cultivar, and closely related plants [have closely related pharmacological profiles][stojanović2013]. 
+
+##Safety
+Literature reviewers rate the integrated incidence and severity of (undesirable) side effects as low, and [recommend St. John's Wort as **safe**][ernst1998].
+This view is apparently shared by many legislators who impose no or little restrictions on commercialization of the herb.
+
+We would - however - like to remind neuroenhancement enthusiasts that the cocktail of chemicals in this herb could have potentially displeasing interactions with other neuroenhancers.
+Though we very strongly advise against using St. John's Wort in conjunction with the drugs listed below, [this study][rahman2013] suggests that the practice of using it together with antidepressants is not unheard of.
+We have compiled a short list of such interactions (which we do not claim is exhaustive):
+
+* **[5-HTP](https://en.wikipedia.org/wiki/5-HTP)** - this substance increases 5-HT production, and can lead to **serotonin syndrome** if used in conjunction with substances with 5-HT reuptake- or degradation-inhibiting activity (which some SWJ constituents posess).
+* **[SSRIs](https://en.wikipedia.org/wiki/SSRI)** - these substances inhibit 5-HT reuptake and include many antidepressants (e.g. fluoxetine, citalopram, or sertraline); practically extracellular 5-HT concentrations would also be exacerbated in this constellation, again potentially leading to **serotonin syndrome**.
+* **[SSNRIs](https://en.wikipedia.org/wiki/SSNRI)** - these substances inhibit 5-HT as well as norepinephrine reuptake and could *additionally* interact with St. John's Wort on the norephrinergic front and cause anxiety, hypertension, and tachycardia. 
+* **[MAOIs](https://en.wikipedia.org/wiki/MAOI)** - these substances would share the same negative interactions with St. John's Wort [as with SSNRIs][cymbalta] (since the main action mechanism of SWJ seems to be wide-range monoamine reuptake inhibition).
+* The availability of very many drugs is strongly diminished by St. John's Wort - since it [increases the activity of cytochrome P450, which degrades at least 50% of marketed medications][markowitz2003]. This could protect against some interactions, but also put people who are taking antibiotics, contraceptives, etc. at risk.
+
+Sadly, it seems, St. John's Wort drug-drug interactions are [not extensively clinically studied][russo2013].
+If you have reliable sources or personal experience backing additional negative interactions (or refuting any of the ones we have listed) please comment, [contribute](http://www.neuroenhance.chymera.eu/interact/), or contact us!
+
+##Where can I get this?
+For responsible and informed neuroenhancement enthusiasts who have read the above and are observing our safety notes, we have researched convenient means of procuring St. John's Wort.
+It is available legally over the counter in most of the world, though preparations and potency (as with any herbal produces) vary greatly.
+Different preparations should be tried out to determine which ones bear the greatest efficacy on any one consumer.
+The most affordable way to get a preparation which others may have reviewed and you can in turn review is online.
+Here is a list with adequate and affordable options for a number of countries:
+
+* **France**: <a href="http://www.amazon.fr/gp/product/B00DTULF1Q/ref=as_li_ss_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B00DTULF1Q&linkCode=as2&tag=neuroenhanc02-21">Millepertuis Perforé, Bio, 60 Gélules x 350mg/cap</a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=neuroenhanc02-21&l=as2&o=8&a=B00DTULF1Q" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+* **Germany**: <a href="http://www.amazon.de/gp/product/B003O9RYDU/ref=as_li_ss_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=B003O9RYDU&linkCode=as2&tag=neuroenhancem-21">Zirkulin Johanniskraut-Dragees H 120er</a><img src="http://ir-de.amazon-adsystem.com/e/ir?t=neuroenhancem-21&l=as2&o=3&a=B003O9RYDU" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+* **United Kingdom**: <a href="http://www.amazon.co.uk/gp/product/B000GG6ETE/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=B000GG6ETE&linkCode=as2&tag=neuroenhanc0b-21">Nature's Bounty, St. John's Wort, Double Strength, 300 mg, 100 Capsules</a><img src="http://ir-uk.amazon-adsystem.com/e/ir?t=neuroenhanc0b-21&l=as2&o=2&a=B000GG6ETE" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+* **United States**: <a href="http://www.amazon.com/gp/product/B00016AICS/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00016AICS&linkCode=as2&tag=neuroenhancem-20">Nature's Way St. John's Wort, 180 Capsules</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=neuroenhancem-20&l=as2&o=1&a=B00016AICS" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+[pöldinger2000]: http://www.ncbi.nlm.nih.gov/pubmed/11155493 "Pöldinger W. “History of St. Johns wort”. Praxis (Bern 1994). 2000 Dec 14;89(50):2102-9."  
+[linde2008]: http://www.ncbi.nlm.nih.gov/pubmed/18843608 "Linde K, Berner MM, Kriston L. “St John's wort for major depression”. Cochrane Database Syst Rev. 2008 Oct 8;(4):CD000448. doi: 10.1002/14651858.CD000448.pub3."
+[posadzki2013]: http://www.ncbi.nlm.nih.gov/pubmed/23472485 "Posadzki P, Watson LK, Ernst E. “Adverse effects of herbal medicines: an overview of systematic reviews”. Clinical Medicine (London, England) 2013 Feb;13(1):7-12."
+[schey2000]: https://www.ncbi.nlm.nih.gov/pubmed/10946573 "Schey KL, Patat S, Chignell CF, Datillo M, Wang RH, Roberts JE. “Photooxidation of lens alpha-crystallin by hypericin (active ingredient in St. John's Wort)”. Photochemistry and Photobiology 2000 Aug;72(2):200-3."
+[markowitz2003]: http://www.ncbi.nlm.nih.gov/pubmed/13129991 "Markowitz JS, Donovan JL, DeVane CL, Taylor RM, Ruan Y, Wang JS, Chavin KD. “Effect of St John's wort on drug metabolism by induction of cytochrome P450 3A4 enzyme”. JAMA 2003 Sep 17;290(11):1500-4."
+[ernst1998]: http://www.ncbi.nlm.nih.gov/pubmed/9860144 "Ernst E, Rand JI, Barnes J, Stevinson C. “Adverse effects profile of the herbal antidepressant St. John's wort (Hypericum perforatum L.)”. European Journal of Clinical Pharmacology 1998 Oct;54(8):589-94."
+[cymbalta]: http://pi.lilly.com/us/cymbalta-pi.pdf "“Cymbalta Prescription Information”. Eli Lilly and Company. September 2011."
+[galeotti2013]: http://www.ncbi.nlm.nih.gov/pubmed/23578992 "Galeotti N, Ghelardini C. “St. John's wort reversal of meningeal nociception: a natural therapeutic perspective for migraine pain”. Phytomedicine 2013 Jul 15;20(10):930-8. doi: 10.1016/j.phymed.2013.03.007. Epub 2013 Apr 8."
+[saddique2010]: http://www.ncbi.nlm.nih.gov/pubmed/20659547 "Saddiqe Z, Naeem I, Maimoona A. “A review of the antibacterial activity of Hypericum perforatum L”. Journal of Ethnopharmacology 2010 Oct 5;131(3):511-21. doi: 10.1016/j.jep.2010.07.034. Epub 2010 Jul 24."
+[birt2009]: http://www.ncbi.nlm.nih.gov/pubmed/19907671 "Birt DF, Widrlechner MP, Hammer KD, Hillwig ML, Wei J, Kraus GA, Murphy PA, McCoy J, Wurtele ES, Neighbors JD, Wiemer DF, Maury WJ, Price JP. “Hypericum in infection: Identification of anti-viral and anti-inflammatory constituents”. Pharmaceutical Biology 2009;47(8):774-782."
+[russo2013]: http://www.ncbi.nlm.nih.gov/pubmed/23897801 "Russo E, Scicchitano F, Whalley BJ, Mazzitello C, Ciriaco M, Esposito S, Patanè M, Upton R, Pugliese M, Chimirri S, Mammì M, Palleria C, De Sarro G.“Hypericum perforatum: Pharmacokinetic, Mechanism of Action, Tolerability, and Clinical Drug-Drug Interactions”. Phytotherapy Research 2013 Jul 30. doi: 10.1002/ptr.5050."
+[rahman2013]: http://www.ncbi.nlm.nih.gov/pubmed/23439542 "Rahman SZ, Basilakis J, Rahmadi A, Lujic S, Musgrave I, Jorm L, Hay P, Münch G. “Use of serotonergic antidepressants and St John's wort in older Australians: a population-based cohort study”. Australasian Psychiatry 2013 Jun;21(3):262-6. doi: 10.1177/1039856213475681. Epub 2013 Feb 25."
+[ma2012]: http://www.ncbi.nlm.nih.gov/pubmed/23234139 "Ma J, Yang J, Ji T, Wang A, Su Y.“Chemical constituents from Hypericum perforatum”. Zhongguo Zhong Yao Za Zhi (China Journal of Chinese Materia Medica) 2012 Aug;37(16):2408-12."
+[nahrstedt1997]: http://www.ncbi.nlm.nih.gov/pubmed/9342774 "Nahrstedt A, Butterweck V.“Biologically active and other chemical constituents of the herb of Hypericum perforatum L”. Pharmacopsychiatry 1997 Sep;30 Suppl 2:129-34."
+[butterweck2003]: http://www.ncbi.nlm.nih.gov/pubmed/12775192 "Butterweck V.“Mechanism of action of St John's wort in depression : what is known?”. CNS Drugs 2003;17(8):539-62."
+[chatterjee1998]: http://www.ncbi.nlm.nih.gov/pubmed/9718074 "Chatterjee SS, Bhattacharya SK, Wonnemann M, Singer A, Müller WE.“Hyperforin as a possible antidepressant component of hypericum extracts”. Life Sciences 1998;63(6):499-510."
+[wonnemann2001]: http://www.ncbi.nlm.nih.gov/pubmed/11518066 "Wonnemann M, Singer A, Siebert B, Müller WE. “Evaluation of synaptosomal uptake inhibition of most relevant constituents of St. John's wort”. Pharmacopsychiatry 2001 Jul;34 Suppl 1:S148-51."
+[müller2003]: http://www.ncbi.nlm.nih.gov/pubmed/12543057 "Müller WE. “Current St John's wort research from mode of action to clinical efficacy”. Pharmacological Research 2003 Feb;47(2):101-9."
+[stojanović2013]: http://www.ncbi.nlm.nih.gov/pubmed/23521674 "Stojanović G, Ðorđević A, Šmelcerović A. “Do other Hypericum species have medical potential as St. John's wort (Hypericum perforatum)?”. Current Medical Chemistry 2013;20(18):2273-95."
+[dörks2013]: http://www.ncbi.nlm.nih.gov/pubmed/23455627 "Dörks M, Langner I, Dittmann U, Timmer A, Garbe E. “Antidepressant drug use and off-label prescribing in children and adolescents in Germany: results from a large population-based cohort study”. European Child and Adolescent Psychiatry 2013 Aug;22(8):511-8. doi: 10.1007/s00787-013-0395-9. Epub 2013 Mar 3."
+[kasper2010]: http://www.ncbi.nlm.nih.gov/pubmed/20708905 "Kasper S, Caraci F, Forti B, Drago F, Aguglia E. “Efficacy and tolerability of Hypericum extract for the treatment of mild to moderate depression”. European Neuropsychopharmacology 2010 Nov;20(11):747-65. doi: 10.1016/j.euroneuro.2010.07.005. Epub 2010 Aug 14."
+[sarris2013]: http://www.ncbi.nlm.nih.gov/pubmed/23653088 "Sarris J, McIntyre E, Camfield DA. “Plant-based medicines for anxiety disorders, part 2: a review of clinical studies with supporting preclinical evidence”. CNS Drugs. 2013 Apr;27(4):301-19. doi: 10.1007/s40263-013-0059-9."
+[camfield2013]: http://www.ncbi.nlm.nih.gov/pubmed/23280675 "Camfield DA, Scholey AB, Pipingas A, Silberstein RB, Kure C, Zangara A, Kras M, Stough C. “The Neurocognitive Effects of Hypericum perforatum Special Extract (Ze 117) during Smoking Cessation”. Phytotherapy Research 2013 Nov;27(11):1605-13. doi: 10.1002/ptr.4909. Epub 2012 Dec 19."
+[rapkin2013]: http://www.ncbi.nlm.nih.gov/pubmed/24161307 "Rapkin AJ, Lewis EI. “Treatment of premenstrual dysphoric disorder”. Women's Health (London, England) 2013 Nov;9(6):537-56. doi: 10.2217/whe.13.62."
+[bukhari2013]: http://www.ncbi.nlm.nih.gov/pubmed/23661522 "Bukhari IA, Dar A. “Behavioral profile of Hypericum perforatum (St. John's Wort) extract. A comparison with standard antidepressants in animal models of depression”. European Review for Medical and Pharmacological Sciences 2013 Apr;17(8):1082-9."
+
+---
+<sup>Browse the history of this file *or* find static versions to cite via [its GitHub page](https://github.com/TheChymera/neuroenhance/blob/master/source/_posts/2013-10-31-sjw.markdown)!</sup>
