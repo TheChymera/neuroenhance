@@ -15,9 +15,9 @@ In the eyes of some, St. John's Wort may bear additional appeal for being natura
 We would like to mention that attributes such as *natural*, *non-processed*, or *organic* [do not equate with *safe*, *reliable*, or *good*][posadzki2013].
 Herbal medicines are often referred to by the plant's name and administered as such simply because the active ingredients are not accurately identified.
 To the serious researcher and the informed consumer this should be a reason for additional scrutiny rather than a word of praise.
-
+<!-- more -->
 ##Psychotropic Effects
-There are no scientific reports of St. John's Wort effects on non-depressed populations.
+There are no scientific reports of St. John's Wort effects on non-depressive populations.
 We would like to note that the plant's psychotropic effects are not acute and take about one week of regular consumption (~900 mg daily) to develop.
 Based on anecdotal and auctorial experience we report similar effects as in depressive disorder patients:
 
