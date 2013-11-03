@@ -29,11 +29,11 @@ In clinical trials, St. John's Wort compares favourably with placebo - and is es
 Its use has high prevalence in German-speaking countries, and it is [often prescribed by psychiatrists in Germany][dörks2013], especially to adolescents.
 St. John's Wort also finds additional clinical or peri-clinical usage in:
 
-* [Anxiety disorders][sarris2013]
-* [Smoking cessation][camfield2013]
-* [Premenstrual dysphoric disorder][rapkin2013]
+* [Treating Anxiety disorders][sarris2013]
+* [Aiding with Smoking cessation][camfield2013]
+* [Treating Premenstrual dysphoric disorder][rapkin2013]
 
-Additionally, acute antidepressant and stimulant effects have been [found in animal models][bukhari2013].
+Additionally, acute (immediate) antidepressant and stimulant effects have been [found in animal models][bukhari2013].
 
 ##Non-Psychotropic Effects
 The non-psychotropic effects of St. John's Wort have a more immediate onset than the psychotropic ones.
@@ -52,7 +52,7 @@ Compared to most antidepressants St. John's Wort exhibits [a very broad mechanis
 This mechanism of action [is credited mainly to hyperforin][chatterjee1998].
 This substance [is believed][müller2003] to inhibit the reuptake of a large number of neurotransmitters by decreasing the sodium-gradient which many neurotransmitter transporters rely on for function.
 
-As with many other plants, St. John's Wort pharmacological efficacy varies strongly from cultivar to cultivar, and closely related plants [have closely related pharmacological profiles][stojanović2013]. 
+As with many other plants, the pharmacological efficacy of St. John's Wort varies strongly from cultivar to cultivar, and closely related plants [have closely related pharmacological profiles][stojanović2013]. 
 
 ##Safety
 Literature reviewers rate the integrated incidence and severity of (undesirable) side effects as low, and [recommend St. John's Wort as **safe**][ernst1998].
@@ -60,20 +60,20 @@ This view is apparently shared by many legislators who impose no or little restr
 
 We would - however - like to remind neuroenhancement enthusiasts that the cocktail of chemicals in this herb could have potentially displeasing interactions with other neuroenhancers.
 Though we very strongly advise against using St. John's Wort in conjunction with the drugs listed below, [this study][rahman2013] suggests that the practice of using it together with antidepressants is not unheard of.
-We have compiled a short list of such interactions (which we do not claim is exhaustive):
+We have compiled a short list of potentially dangerous interactions (which we do not claim is exhaustive):
 
 * **[5-HTP](https://en.wikipedia.org/wiki/5-HTP)** - this substance increases 5-HT production, and can lead to **serotonin syndrome** if used in conjunction with substances with 5-HT reuptake- or degradation-inhibiting activity (which some SWJ constituents posess).
 * **[SSRIs](https://en.wikipedia.org/wiki/SSRI)** - these substances inhibit 5-HT reuptake and include many antidepressants (e.g. fluoxetine, citalopram, or sertraline); practically extracellular 5-HT concentrations would also be exacerbated in this constellation, again potentially leading to **serotonin syndrome**.
 * **[SSNRIs](https://en.wikipedia.org/wiki/SSNRI)** - these substances inhibit 5-HT as well as norepinephrine reuptake and could *additionally* interact with St. John's Wort on the norephrinergic front and cause anxiety, hypertension, and tachycardia. 
 * **[MAOIs](https://en.wikipedia.org/wiki/MAOI)** - these substances would share the same negative interactions with St. John's Wort [as with SSNRIs][cymbalta] (since the main action mechanism of SWJ seems to be wide-range monoamine reuptake inhibition).
-* The availability of very many drugs is strongly diminished by St. John's Wort - since it [increases the activity of cytochrome P450, which degrades at least 50% of marketed medications][markowitz2003]. This could protect against some interactions, but also put people who are taking antibiotics, contraceptives, etc. at risk.
+* The half-life of very many drugs is strongly diminished by St. John's Wort - since it [increases the activity of cytochrome P450, which degrades at least 50% of marketed medications][markowitz2003]. This could protect against some interactions, but also put people who are taking antibiotics, contraceptives, etc. at risk.
 
-Sadly, it seems, St. John's Wort drug-drug interactions are [not extensively clinically studied][russo2013].
+Sadly it seems drug-drug interactions for St. John's Wort are [not extensively clinically studied][russo2013].
 If you have reliable sources or personal experience backing additional negative interactions (or refuting any of the ones we have listed) please comment, [contribute](http://www.neuroenhance.chymera.eu/interact/), or contact us!
 
 ##Where can I get this?
 For responsible and informed neuroenhancement enthusiasts who have read the above and are observing our safety notes, we have researched convenient means of procuring St. John's Wort.
-It is available legally over the counter in most of the world, though preparations and potency (as with any herbal produces) vary greatly.
+It is available legally over the counter in most of the world, though preparations and potency (as with many herbal produces) vary greatly.
 Different preparations should be tried out to determine which ones bear the greatest efficacy on any one consumer.
 The most affordable way to get a preparation which others may have reviewed and you can in turn review is online.
 Here is a list with adequate and affordable options for a number of countries:
