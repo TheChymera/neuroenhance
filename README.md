@@ -1,4 +1,4 @@
-#neuroenhance.me Repository
+#The neuroenhance.me Repository
 
 Git repository for the Chymera Network photography blog.
 This repository contains all files unique to the blog and their history dating back to the orginal publication date.
@@ -7,7 +7,7 @@ This repository contains all files unique to the blog and their history dating b
 
 Websites in general and blogs in particular are often unsuited for citation in texts striving to provide reliable sources.
 This is chiefly because content of a web-URL (to a blog post or wiki article) may be modified at any time without notice or ways to retrieve the previous version.
-The [neuroenhance.me Blog](http://neuroenhance.me) provides a high degree of reliability as a citable source by backing up and versioning its entire content.
+The [neuroenhance.me blog](http://neuroenhance.me) provides a high degree of reliability as a citable source by backing up and versioning its entire content.
 
 While we recommend viewing our content through our website for the best reading experience;
 we encourage citation of fixed versions via links to our repository hosted on the reliable and stable GitHub service.
@@ -22,7 +22,7 @@ Our actual articles are all under [```/source/_posts/```](https://github.com/The
 Reproducible content is a vital to the quality control and transparency of any source of information.
 To this end, we are happy to offer you the possibility of cloning **our entire** website.
 
-To obtain a publishing-ready identical copy of the [neuroenhance.me Blog](http://neuroenhance.me) on your machine, please follow the instructions below.
+To obtain a publishing-ready identical copy of the [neuroenhance.me blog](http://neuroenhance.me) on your machine, please follow the instructions below.
 
 ###Get Octopress
 
@@ -51,7 +51,7 @@ Install default theme:
     $ git fetch --all
     $ git reset --hard origin/master
     
-And generate the [neuroenhance.me Blog](http://neuroenhance.me):
+And generate the [neuroenhance.me blog](http://neuroenhance.me):
 
     $ bundle exec rake generate
 
