@@ -1,4 +1,4 @@
-#The neuroenhance.me Repository
+#The [neuroenhance.me](http://neuroenhance.me) Repository
 
 Git repository for the Chymera Network photography blog.
 This repository contains all files unique to the blog and their history dating back to the orginal publication date.
