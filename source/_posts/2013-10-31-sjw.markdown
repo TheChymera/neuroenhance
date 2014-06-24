@@ -9,7 +9,7 @@ published: true
 ---
 
 St. John's Wort is a widely known herbal remedy for depression, which has been [used for millennia][pöldinger2000].
-This plant is very interesting as a [neuroenhancer](http://www.neuroenhance.chymera.eu/neuroenhancement/) as it has a desirable profile of psychotropic effects, has been identified in [a broad review of studies][linde2008] as superior to placebo, and is available in most parts of the world legally over the counter.
+This plant is very interesting as a [neuroenhancer](http://www.neuroenhance.me/neuroenhancement/) as it has a desirable profile of psychotropic effects, has been identified in [a broad review of studies][linde2008] as superior to placebo, and is available in most parts of the world legally over the counter.
 
 In the eyes of some, St. John's Wort may bear additional appeal for being natural and non-refined.
 We would like to mention that attributes such as *natural*, *non-processed*, or *organic* [do not equate with *safe*, *reliable*, or *good*][posadzki2013].
@@ -69,7 +69,7 @@ We have compiled a short list of potentially dangerous interactions (which we do
 * The half-life of very many drugs is strongly diminished by St. John's Wort - since it [increases the activity of cytochrome P450, which degrades at least 50% of marketed medications][markowitz2003]. This could protect against some interactions, but also put people who are taking antibiotics, contraceptives, etc. at risk.
 
 Sadly it seems drug-drug interactions for St. John's Wort are [not extensively clinically studied][russo2013].
-If you have reliable sources or personal experience backing additional negative interactions (or refuting any of the ones we have listed) please comment, [contribute](http://www.neuroenhance.chymera.eu/interact/), or contact us!
+If you have reliable sources or personal experience backing additional negative interactions (or refuting any of the ones we have listed) please comment, [contribute](http://www.neuroenhance.me/interact/), or contact us!
 
 ##Where can I get this?
 For responsible and informed neuroenhancement enthusiasts who have read the above and are observing our safety notes, we have researched convenient means of procuring St. John's Wort.

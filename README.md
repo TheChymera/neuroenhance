@@ -61,7 +61,7 @@ If you would like to host a mirror or fork of our website somewhere else, you wo
 
     ssh_user       = "m4nt1s@redwings.dreamhost.com"
     ssh_port       = "22"
-    document_root  = "~/neuroenhance.chymera.eu/"
+    document_root  = "~/neuroenhance.me/"
 
 of your ```Rakefile``` file.
 
